@@ -1,5 +1,5 @@
 {
-  "name": "pi_medsos",
+  "name": "pi_medsos_joel",
   "version": "1.0.0",
   "description": "PI School medsos Backend",
   "main": "server.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "websocket"
   ],
-  "author": "rezky",
+  "author": "joel",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^2.2.0",
